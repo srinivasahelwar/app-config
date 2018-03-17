@@ -14,4 +14,4 @@ logging: # <----New sections below
 greeting:
   displayFortune: true
 
-quoteServiceURL: http://quote-service-qa.run.aws.pcfninja.io/quote
+quoteServiceURL: http://dev.markitondemand.com/MODApis/Api/v2/Quote/json?symbol=IBM
